@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\gamejam1\\assets\\scripts\\escripts\\scriptsplayer\\anxietyeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\scriptsplayer\\anxietyeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\gamejam1\\assets\\scripts\\scriptsplayer\\lightscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptsplayer\\lightscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\gamejam1\\assets\\scripts\\escripts\\enemiesscripts\\enemypatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\enemiesscripts\\enemypatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\enemiesscripts\\enemylightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemiesscripts\\enemylightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\escripts\\enemiesscripts\\enemystickstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\enemiesscripts\\enemystickstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\scriptsplayer\\anxietyeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptsplayer\\anxietyeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\escripts\\enemiesscripts\\enemystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\enemiesscripts\\enemystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\gamejam1\\assets\\scripts\\uiscripts\\uigame\\desactivategameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\uigame\\desactivategameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\escripts\\scriptsplayer\\lightscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\scriptsplayer\\lightscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\scriptsplayer\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptsplayer\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\escripts\\enemiesscripts\\enemylightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\enemiesscripts\\enemylightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\enemiesscripts\\enemystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemiesscripts\\enemystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\escripts\\enemiesscripts\\enemyfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\enemiesscripts\\enemyfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\enemiesscripts\\enemyfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemiesscripts\\enemyfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\escripts\\uiscripts\\uigame\\activarobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\uiscripts\\uigame\\activarobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\enemiesscripts\\enemypatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemiesscripts\\enemypatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\escripts\\scriptsplayer\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\scriptsplayer\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\escripts\\uiscripts\\uigame\\animacionesimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escripts\\uiscripts\\uigame\\animacionesimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\assets\\scripts\\uiscripts\\uigame\\textodialogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27F555A-3F27-1E3D-E030-72C9AB7DB3B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\uigame\\textodialogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,129 +46,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AnxietyEffect.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\ScriptsPlayer\\AnxietyEffect.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\ScriptsPlayer\\AnxietyEffect.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\ScriptsPlayer\\AnxietyEffect.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\ScriptsPlayer\\AnxietyEffect.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAkwF4AAAArAAAA",
+              "DocumentIndex": 3,
+              "Title": "DesactivateGameObject.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\UIScripts\\UIGame\\DesactivateGameObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\UIGame\\DesactivateGameObject.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\UIScripts\\UIGame\\DesactivateGameObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\UIGame\\DesactivateGameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T17:49:45.342Z",
+              "WhenOpened": "2024-08-12T00:27:39.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LightScript.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\ScriptsPlayer\\LightScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptsPlayer\\LightScript.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\ScriptsPlayer\\LightScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptsPlayer\\LightScript.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T00:05:08.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyLightState.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\EnemiesScripts\\EnemyLightState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemiesScripts\\EnemyLightState.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\EnemiesScripts\\EnemyLightState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemiesScripts\\EnemyLightState.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T23:49:05.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EnemyStickState.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyStickState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyStickState.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyStickState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyStickState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Title": "AnxietyEffect.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\ScriptsPlayer\\AnxietyEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptsPlayer\\AnxietyEffect.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\ScriptsPlayer\\AnxietyEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptsPlayer\\AnxietyEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:54:48.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EnemyLightState.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyLightState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyLightState.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyLightState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyLightState.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:33:13.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnemyPatrolState.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyPatrolState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyPatrolState.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyPatrolState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyPatrolState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:30:23.498Z",
+              "WhenOpened": "2024-08-11T23:15:45.529Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyPatrolState.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\EnemiesScripts\\EnemyPatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemiesScripts\\EnemyPatrolState.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\EnemiesScripts\\EnemyPatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemiesScripts\\EnemyPatrolState.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:10:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovements.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\ScriptsPlayer\\PlayerMovements.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptsPlayer\\PlayerMovements.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\ScriptsPlayer\\PlayerMovements.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptsPlayer\\PlayerMovements.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:03:46.418Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "EnemyFollowState.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyFollowState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyFollowState.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyFollowState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyFollowState.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAeAAAA",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\EnemiesScripts\\EnemyFollowState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemiesScripts\\EnemyFollowState.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\EnemiesScripts\\EnemyFollowState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemiesScripts\\EnemyFollowState.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:29:48.116Z"
+              "WhenOpened": "2024-08-11T22:02:28.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EnemyStateManager.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyStateManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyStateManager.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyStateManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\EnemiesScripts\\EnemyStateManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\EnemiesScripts\\EnemyStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemiesScripts\\EnemyStateManager.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\EnemiesScripts\\EnemyStateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemiesScripts\\EnemyStateManager.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:28:16.393Z"
+              "WhenOpened": "2024-08-11T22:01:57.2Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PlayerManager.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\ScriptsPlayer\\PlayerManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\ScriptsPlayer\\PlayerManager.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\ScriptsPlayer\\PlayerManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\ScriptsPlayer\\PlayerManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "TextoDialogo.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\UIScripts\\UIGame\\TextoDialogo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\UIGame\\TextoDialogo.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\UIScripts\\UIGame\\TextoDialogo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\UIGame\\TextoDialogo.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:06:52.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LightScript.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\ScriptsPlayer\\LightScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\ScriptsPlayer\\LightScript.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\ScriptsPlayer\\LightScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\ScriptsPlayer\\LightScript.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:06:32.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ActivarObjects.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\UIScripts\\UIGame\\ActivarObjects.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\UIScripts\\UIGame\\ActivarObjects.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\UIScripts\\UIGame\\ActivarObjects.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\UIScripts\\UIGame\\ActivarObjects.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:34:16.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AnimacionesImagen.cs",
-              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\UIScripts\\UIGame\\AnimacionesImagen.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\escripts\\UIScripts\\UIGame\\AnimacionesImagen.cs",
-              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\GameJam1\\Assets\\Scripts\\escripts\\UIScripts\\UIGame\\AnimacionesImagen.cs",
-              "RelativeToolTip": "Assets\\Scripts\\escripts\\UIScripts\\UIGame\\AnimacionesImagen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:30:45.567Z"
+              "WhenOpened": "2024-08-11T21:58:46.318Z"
             }
           ]
         }

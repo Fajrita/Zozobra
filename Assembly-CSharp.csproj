@@ -60,23 +60,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.37f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\escripts\UIScripts\UIGame\AnimacionesImagen.cs" />
-    <Compile Include="Assets\Scripts\escripts\EnemiesScripts\EnemyLightState.cs" />
-    <Compile Include="Assets\Scripts\escripts\EnemiesScripts\EnemyStickState.cs" />
-    <Compile Include="Assets\Scripts\escripts\EnemiesScripts\EnemyStateManager.cs" />
-    <Compile Include="Assets\Scripts\escripts\UIScripts\PantallaCompleta.cs" />
-    <Compile Include="Assets\Scripts\escripts\ScriptsPlayer\PlayerManager.cs" />
-    <Compile Include="Assets\Scripts\escripts\UIScripts\BrilloSlider.cs" />
-    <Compile Include="Assets\Scripts\escripts\EnemiesScripts\EnemyPatrolState.cs" />
-    <Compile Include="Assets\Scripts\escripts\UIScripts\ChangeScene.cs" />
-    <Compile Include="Assets\Scripts\escripts\ScriptsPlayer\AnxietyEffect.cs" />
-    <Compile Include="Assets\Scripts\escripts\UIScripts\UIGame\TextoDialogo.cs" />
-    <Compile Include="Assets\Scripts\escripts\UIScripts\SoundSlider.cs" />
-    <Compile Include="Assets\Scripts\escripts\EnemiesScripts\EnemyFollowState.cs" />
-    <Compile Include="Assets\Scripts\escripts\ScriptsPlayer\PlayerMovements.cs" />
-    <Compile Include="Assets\Scripts\escripts\ScriptsPlayer\LightScript.cs" />
-    <Compile Include="Assets\Scripts\escripts\EnemiesScripts\EnemyBaseState.cs" />
-    <Compile Include="Assets\Scripts\escripts\UIScripts\UIGame\ActivarObjects.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\UIGame\TextoDialogo.cs" />
+    <Compile Include="Assets\Scripts\ScriptsPlayer\PlayerManager.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\UIGame\DesactivateGameObject.cs" />
+    <Compile Include="Assets\Scripts\ScriptsPlayer\AnxietyEffect.cs" />
+    <Compile Include="Assets\Scripts\EnemiesScripts\EnemyStateManager.cs" />
+    <Compile Include="Assets\Scripts\EnemiesScripts\EnemyPatrolState.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\ChangeScene.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\SoundSlider.cs" />
+    <Compile Include="Assets\Scripts\EnemiesScripts\EnemyBaseState.cs" />
+    <Compile Include="Assets\Scripts\EnemiesScripts\EnemyStickState.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\BrilloSlider.cs" />
+    <Compile Include="Assets\Scripts\EnemiesScripts\EnemyFollowState.cs" />
+    <Compile Include="Assets\Scripts\ScriptsPlayer\PlayerMovements.cs" />
+    <Compile Include="Assets\Scripts\ScriptsPlayer\LightScript.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\UIGame\ActivarObjects.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\UIGame\AnimacionesImagen.cs" />
+    <Compile Include="Assets\Scripts\EnemiesScripts\EnemyLightState.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\PantallaCompleta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
